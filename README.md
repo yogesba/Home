@@ -20,7 +20,7 @@ I'm a **Cybersecurity Leader and Security Architect** based in the **United Arab
 
 I focus on designing, building, and improving enterprise cybersecurity capabilities across **Security Operations Centers (SOC), cloud and infrastructure security, threat detection, digital forensics, incident response, and cybersecurity governance**.
 
-My experience includes leading SOC teams and transformation initiatives; architecting SIEM/SOAR integrations; developing detection engineering and threat hunting capabilities; and supporting cloud security programs in highly regulated environments. I have worked across the **UAE, Australia, New Zealand, India, Oman, and Qatar**, serving diverse industries including government, financial services, healthcare, telecommunications, manufacturing, and technology.
+My experience includes leading SOC teams and transformation initiatives; architecting SIEM/SOAR integrations; developing detection engineering and threat hunting capabilities; and supporting cloud security programs in highly regulated environments. I have worked across the **UAE, US, EMEA, Australia**, serving diverse industries including government, financial services, healthcare, telecommunications, manufacturing, and technology.
 
 - 🛡️ **SOC Leadership:** SOC strategy, build-and-run operations, MDR, multi-tenant SOCs, service governance, KPIs and SLAs
 - 🔎 **Threat Detection & DFIR:** SIEM use cases, threat hunting, malware triage, memory/disk/network forensics, incident response
@@ -87,41 +87,7 @@ My experience includes leading SOC teams and transformation initiatives; archite
 - **Regulatory & Sector Requirements:** PCI DSS, GDPR, HIPAA, UAE PDPL, Saudi NCA ECC, Australian Essential Eight
 - **Practices:** Security risk assessments, audit readiness, maturity assessments, policies, incident response governance
 
----
-
-# 💼 Professional Experience
-
-My professional background spans **cybersecurity leadership, consulting, security architecture, and technology operations**, including experience with:
-
-- **G42 Cloud / A3 Tech** — Cloud security architecture and Security Operations initiatives
-- **StickmanCyber** — Head of SOC
-- **MDS CTS** — Regional Technical Lead, Apple Practice
-- **KPMG Global Services** — Cyber Threat Management leadership and consulting
-- **PwC India, IBM, ProKarma & Wipro** — Cybersecurity and IT roles
-
 > Public profile summary only. Project-specific architectures, confidential customer information and restricted-environment configurations are intentionally omitted.
-
----
-
-# 🏅 Certifications & Recognition
-
-**Professional Certifications**
-
-- CISM — Certified Information Security Manager
-- CompTIA Security+
-- CEH — Certified Ethical Hacker
-- GCFE — GIAC Certified Forensic Examiner
-- CHFI — Computer Hacking Forensic Investigator
-- ISO/IEC 27001 Lead Auditor
-- ITIL v3 Foundation
-- Microsoft Azure Security Engineering / Architecture
-- AWS Cloud Security
-
-**Recognition**
-
-- 🏆 KPMG Super Employee Award (2021)
-- 🏆 KPMG Super Team Award (2022)
-- 🪙 SANS Lethal Forensicator Coin
 
 ---
 
@@ -158,10 +124,10 @@ My professional background spans **cybersecurity leadership, consulting, securit
 # 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE/">
+  <a href="https://www.linkedin.com/in/yogesh.kb/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/yogesba">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>

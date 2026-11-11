@@ -16,7 +16,7 @@ Cybersecurity Leader • Security Architect • SOC & DFIR Specialist • Cloud 
 
 # 🚀 About Me
 
-I'm a **Cybersecurity Leader and Security Architect** based in the **United Arab Emirates**, with **16+ years in IT and 15+ years specializing in cybersecurity**.
+I'm a **Cybersecurity Leader and Security Architect** based in the **United Arab Emirates**, with **18+ years in Information Technology specializing in cybersecurity**.
 
 I focus on designing, building, and improving enterprise cybersecurity capabilities across **Security Operations Centers (SOC), cloud and infrastructure security, threat detection, digital forensics, incident response, and cybersecurity governance**.
 

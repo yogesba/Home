@@ -5,7 +5,7 @@ Cybersecurity Leader • Security Architect • SOC & DFIR Specialist • Cloud 
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&width=1000&lines=16%2B+Years+in+IT+%7C+15%2B+Years+in+Cybersecurity;Building+and+Transforming+Enterprise+SOCs;SIEM+%7C+SOAR+%7C+DFIR+%7C+Threat+Hunting;Azure+%7C+AWS+%7C+GCP+%7C+Huawei+Cloud;Security+Architecture+%7C+Agentic+SOC+%7C+AI+Security" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&width=1000&lines=18%2B+Years+in+Cybersecurity;Building+and+Transforming+Enterprise+SOCs;SIEM+%7C+SOAR+%7C+DFIR+%7C+Threat+Hunting;Azure+%7C+AWS+%7C+GCP+%7C+Huawei+Cloud;Security+Architecture+%7C+Agentic+SOC+%7C+AI+Security" alt="Animated introduction" />
 </p>
 
 <p align="center">
